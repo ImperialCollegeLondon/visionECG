@@ -28,7 +28,7 @@
 - Cardiovascular risk stratification
 
 ## Reference
-**[medRxiv 2026 preprint](https://www.medrxiv.org/content/10.64898/2026.09.01.26360987v1)**  
+Zheng J, Kalaie S, Ma Q, Meng Q, Rjoob K, Gifani P, et al. Reconstructing synthetic hearts from ECG using flow matching. *medRxiv*. 2026;2026.09.01.26360987. [doi:10.64898/2026.09.01.26360987](https://doi.org/10.64898/2026.09.01.26360987).
 
 <!-- ## Installation
 
