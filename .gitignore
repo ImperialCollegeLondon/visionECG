@@ -1,0 +1,40 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
+.claude/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Training outputs
+outputs/
+runs/
+checkpoints/
+
+# temp folder
+temp/
+test_run/
+test_output/
+temp_test/
+
+# file name including "temp" or "test"
+*temp*
+*test*
+
+# ignore all archive folders and files
+*archive*/
+*/**archive*/
+
+# .exe files
+*.exe
+
+# folder named ukb_audit_reports
+ukb_audit_reports/
